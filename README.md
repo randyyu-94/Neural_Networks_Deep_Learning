@@ -1,15 +1,14 @@
 # **Welcome to Randy's Learning Center!**
 This repository contains my personal learning materials for the [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/) course offered by Deeplearning.AI. 
 
+## Table of Contents
 
-## **Table of Contents**
-
-1. [About The Course](#about-the-course)
-2. [Repository Structure](#repository-structure)
-3. [Prerequisites](#prerequisites)
-4. [How to Use This Repository](#how-to-use-this-repository)
-5. [Contributions](#contributions)
-6. [Acknowledgments](#acknowledgments)
+- [**About The Course**](#about-the-course)
+- [**Repository Structure**](#repository-structure)
+- [**Prerequisites**](#prerequisites)
+- [**How to Use This Repository**](#how-to-use-this-repository)
+- [**Contributions**](#contributions)
+- [**Acknowledgments**](#acknowledgments)
 
 ## **About The Course**
 
